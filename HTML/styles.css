@@ -1,0 +1,15 @@
+ p {
+     color: red;
+ }
+ 
+ div {
+     background-color: lightblue;
+     color: yellow;
+     width: 500px;
+     border: 1px solid gray;
+ }
+ 
+ div.custom-div {
+     font-size: 18px;
+     color: black;
+ }
